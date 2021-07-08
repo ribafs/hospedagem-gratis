@@ -24,13 +24,14 @@ Pelo gerenciador de arquivos do site podemos enviar arquivos, inclusive compacta
 Para arquivos e pastas maiores criar uma conta de FTP. Minha sugestão é usar o Filezilla com SFTP
 
 - Requer que você tenha um domínio para criar e usar a conta (Dica: É bom ter um domínio para testes e estas hospedagens)
-- PHP - várias versões, inclusive 7.4 e 8
-- MySQL - 1 banco com até 10MB
-- Abrigar até 5 domínios
+- PHP - várias versões, inclusive 7.4 e 8. Configurações no php.ini
+- MySQL - 1 banco com até 10MB, com phpMyAdmin e até acesso remoto
+- Abrigar até 5 domínios com gerenciamento
 - 250MB Disk Space
 - 6GB Monthly Traffic
 - 3 E-mail Accounts e com webmail
 - Instalador com 1 clique: Joomla, WordPress, Laravel e outros
+- Diretório web - /home/www
 
 
 ### Cloudaccess
@@ -147,3 +148,19 @@ Eles cobram geralmente a mesma taxa anual a cada ano. Diferente de muitas hosped
 
 Outra grande, enorme vantagem é que você mesmo gerencia tudo do seu domínio: nameservers, registros, etc na administração web do registro.br. Não precisará ficar pedindo ao suporte da hospedagem que faça por você e esperar dias para que façam. É verdade que isso exige mais conhecimento mas isso é algo que precisamos ter em nossa área, não podemos ficar dependendo de outros.
 
+## Explicando um pouco
+
+Um domínio é um apelido para um IP que facilita memorizar
+
+- Primeiro contratamos um serviço, como o registro.br
+- Depois configuramos os dados recebidos do registro.br numa hospedagem. Exemplo: Digital Ocean
+- Então aguardamos um certo tempo para que o domínio propague (que pode variar de minutos até a horas  e até 3 dias)
+
+
+## Ferramentas para checar a proapgação do DNS
+
+Mostra em que regiões já propagou e também pelos registros do DNS
+
+https://www.whatsmydns.net/
+
+https://www.intodns.com/
