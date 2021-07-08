@@ -23,12 +23,13 @@ Pelo gerenciador de arquivos do site podemos enviar arquivos, inclusive compacta
 
 Para arquivos e pastas maiores criar uma conta de FTP. Minha sugestão é usar o Filezilla com SFTP
 
+- Requer que você tenha um domínio para criar e usar a conta (Dica: É bom ter um domínio para testes e estas hospedagens)
 - PHP - várias versões, inclusive 7.4 e 8
 - MySQL - 1 banco com até 10MB
 - Abrigar até 5 domínios
 - 250MB Disk Space
 - 6GB Monthly Traffic
-- 3 E-mail Accounts
+- 3 E-mail Accounts e com webmail
 - Instalador com 1 clique: Joomla, WordPress, Laravel e outros
 
 
@@ -134,4 +135,15 @@ Seus nameserver são
 
 80.80.80.80
 80.80.81.81
+
+
+## Domínios comerciais
+
+Caso queira contratar um domínio pago a minha sugestão é o registro.br. Porque? 
+
+Lembrando: não ganho nada do registro.br. Eles nem sabem que existe. Aqui meu compromisso é apenas o de prestar uma boa informação, que me serviu bem.
+
+Eles cobram geralmente a mesma taxa anual a cada ano. Diferente de muitas hospedagens que quando você vai renovar ela cobra o dobro ou mais do que você pagou no primeiro ano.
+
+Outra grande, enorme vantagem é que você mesmo gerencia tudo do seu domínio: nameservers, registros, etc na administração web do registro.br. Não precisará ficar pedindo ao suporte da hospedagem que faça por você e esperar dias para que façam. É verdade que isso exige mais conhecimento mas isso é algo que precisamos ter em nossa área, não podemos ficar dependendo de outros.
 
