@@ -34,6 +34,21 @@ Para arquivos e pastas maiores criar uma conta de FTP. Minha sugestão é usar o
 - Diretório web - /home/www
 
 
+### Freehostingeu
+
+Este foi indicação do colega Jorge Miguel do grupo Laravel Brasil do Facebook
+
+https://www.freehostingeu.com/
+
+A vantagem deste é que nem domínio ele exige. Você recebe um subdomínio. Veja um que tenho lá: http://ribafs.eu3.org/
+
+Recursos
+
+- PHP com MySQL
+- Instalação com 1 clique do Joomla, Wordpress, e outros
+- Outros recursos. Confira 
+
+
 ### Cloudaccess
 
 Se for free para hospedar um site com Joomla este é o meu preferido
