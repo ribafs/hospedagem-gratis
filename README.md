@@ -96,6 +96,30 @@ Main FeaturesPHP & MySQL included with every free hosting plan
 Eu tive tantos problemas com este que não vou citar aqui nem indicar, mas pode te servir, como chegou a me servir
 
 
+## Sites estáticos
+
+Estes são sites que usam apenas HTML, CSS e Javascript. Nada de PHP nem MySQL
+
+
+### Github Pages - https://github.com
+
+Este é o meu preferido para sites estáticos. Meu site está com ele - https://ribamar.net.br
+
+Criar um repositório e usá-lo para abrigar um site em HTML
+
+Existem várias outras alternativas, como
+
+
+### 21 opções de hosting free para sites com HTML estático
+
+https://devandgear.com/blog/free-hosting-static-website/
+
+
+### 10 opções
+
+https://graygrids.com/free-static-html-hosting-providers/
+
+
 ## Domínio free
 
 Aaproveitando temos também uma opção de domínio free. Não é aceito em toda hospedagem mas pode ser vir em algumas.
