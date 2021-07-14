@@ -163,6 +163,8 @@ Eles cobram geralmente a mesma taxa anual a cada ano. Diferente de muitas hosped
 
 Outra grande, enorme vantagem é que você mesmo gerencia tudo do seu domínio: nameservers, registros, etc na administração web do registro.br. Não precisará ficar pedindo ao suporte da hospedagem que faça por você e esperar dias para que façam. É verdade que isso exige mais conhecimento mas isso é algo que precisamos ter em nossa área, não podemos ficar dependendo de outros.
 
+Gosto do registro.br principalmente por dois motivos: quando for renovar o domínio não terá a horrível surpresa de pagar o dobro ou até mais e outra que agiliza muito o gerenciamento domínio, que é a interface de administração deles, que te oferece todos os recursos que precisamos para nossos domínios, que são os nameservers e os registros. Você não irá perder tempo pedindo que o suporte faça isso por você e ter que esperar pela nada ágil resposta, como acontece com alguns. Eu tenho um domínio numa destas e estarei abandonando, pois a renovação será 70, mais que o dobro.
+
 ## Explicando um pouco
 
 Um domínio é um apelido para um IP que facilita memorizar
