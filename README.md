@@ -4,6 +4,9 @@
 
 Os melhores serviços free que conheço. Se conhece mais algum que não foi listado, por favor me mande um Issue para que eu adicione na lista.
 
+## Atualização
+Depois de alguns testes, atualmente a melhor hospedagem free que conheço é o Heroku, que inclkusive usa git para enviar os arquivos para o servidor, que é eficiente e importante em nossos dias.
+
 ## Justificativa
 
 Como sempre me deu muito trabalho encontrar uma boa hospedagem free com suporte ao PHP e com MySQL, então resolvi criar este repositório para compartilhar. Sem contar que geralmente tem uma baixa performance. Isso normalmente nos força a usar seus planos comerciais.
